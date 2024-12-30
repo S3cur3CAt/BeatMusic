@@ -1,0 +1,49 @@
+<Page
+    x:Class="BeatCat.SearchPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BeatCat"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Padding="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <AutoSuggestBox x:Name="SearchBox" 
+                            PlaceholderText="Search for videos..."
+                            QuerySubmitted="SearchBox_QuerySubmitted"/>
+            <Button Content="Buscar" 
+                    Click="SearchButton_Click" 
+                    Margin="5,0,0,0"/>
+        </StackPanel>
+
+        <ListView x:Name="SearchResultsListView" 
+                  Grid.Row="1" 
+                  Margin="0,12,0,0"
+                  ItemClick="SearchResultsListView_ItemClick"
+                  IsItemClickEnabled="True">
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="local:Video">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="{x:Bind ThumbnailUrl}" Width="120" Height="90"/>
+                        <StackPanel Grid.Column="1" Margin="12,0,0,0">
+                            <TextBlock Text="{x:Bind Title}" Style="{ThemeResource BaseTextBlockStyle}"/>
+                            <TextBlock Text="{x:Bind ChannelTitle}" Style="{ThemeResource CaptionTextBlockStyle}"/>
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>
+

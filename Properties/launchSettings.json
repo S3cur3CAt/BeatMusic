@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BeatCat (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BeatCat (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

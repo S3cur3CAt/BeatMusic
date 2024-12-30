@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\searchpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:searchpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\playerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:playerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\playerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:playerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\youtubeplayercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:youtubeplayercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\favoritespage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:favoritespage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\favoritespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:favoritespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|c:\\users\\usuario\\source\\repos\\beatcat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{825AA2F5-97A4-4E94-8046-8FD9424F6A4D}|BeatCat.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YoutubePlayerCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\YoutubePlayerCommands.cs",
+              "RelativeDocumentMoniker": "YoutubePlayerCommands.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\YoutubePlayerCommands.cs",
+              "RelativeToolTip": "YoutubePlayerCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:30:50.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppState.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\AppState.cs",
+              "RelativeDocumentMoniker": "AppState.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\AppState.cs",
+              "RelativeToolTip": "AppState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:11:24.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\Video.cs",
+              "RelativeDocumentMoniker": "Video.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\Video.cs",
+              "RelativeToolTip": "Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:11:03.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YouTubeService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\YouTubeService.cs",
+              "RelativeDocumentMoniker": "YouTubeService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\YouTubeService.cs",
+              "RelativeToolTip": "YouTubeService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:10:34.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FavoritesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\FavoritesPage.xaml.cs",
+              "RelativeDocumentMoniker": "FavoritesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\FavoritesPage.xaml.cs",
+              "RelativeToolTip": "FavoritesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:10:12.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavoritesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\FavoritesPage.xaml",
+              "RelativeDocumentMoniker": "FavoritesPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\FavoritesPage.xaml",
+              "RelativeToolTip": "FavoritesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T03:09:59.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\SearchPage.xaml.cs",
+              "RelativeToolTip": "SearchPage.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:09:39.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "SearchPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\SearchPage.xaml",
+              "RelativeToolTip": "SearchPage.xaml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T03:09:27.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\PlayerPage.xaml.cs",
+              "RelativeDocumentMoniker": "PlayerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\PlayerPage.xaml.cs",
+              "RelativeToolTip": "PlayerPage.xaml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:09:05.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\PlayerPage.xaml",
+              "RelativeDocumentMoniker": "PlayerPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\PlayerPage.xaml",
+              "RelativeToolTip": "PlayerPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T03:08:52.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:08:19.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T03:08:09.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T15:49:54.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\BeatCat\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:36:35.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

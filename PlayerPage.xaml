@@ -1,0 +1,54 @@
+<!-- File: PlayerPage.xaml -->
+<Page
+    x:Class="BeatCat.PlayerPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BeatCat"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <WebView2 x:Name="YoutubePlayer" Grid.Row="0"/>
+
+        <Grid Grid.Row="1" Padding="12">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Orientation="Horizontal" Grid.Column="0">
+                <Image x:Name="ThumbnailImage" Width="48" Height="48"/>
+                <StackPanel Margin="12,0,0,0">
+                    <TextBlock x:Name="TitleTextBlock" Style="{ThemeResource BodyTextBlockStyle}"/>
+                    <TextBlock x:Name="ChannelTextBlock" Style="{ThemeResource CaptionTextBlockStyle}"/>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button x:Name="PreviousButton" Content="&#xE892;" FontFamily="Segoe MDL2 Assets"/>
+                    <Button x:Name="PlayPauseButton" Content="&#xE768;" FontFamily="Segoe MDL2 Assets" Click="PlayPauseButton_Click"/>
+                    <Button x:Name="NextButton" Content="&#xE893;" FontFamily="Segoe MDL2 Assets"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                    <TextBlock x:Name="CurrentTimeTextBlock" Style="{ThemeResource CaptionTextBlockStyle}"/>
+                    <Slider x:Name="ProgressSlider" Width="300" Margin="8,0" ValueChanged="ProgressSlider_ValueChanged"/>
+                    <TextBlock x:Name="TotalTimeTextBlock" Style="{ThemeResource CaptionTextBlockStyle}"/>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Grid.Column="2" Orientation="Horizontal">
+                <Button x:Name="MuteButton" Content="&#xE767;" FontFamily="Segoe MDL2 Assets" Click="MuteButton_Click"/>
+                <Slider x:Name="VolumeSlider" Width="100" Margin="8,0" ValueChanged="VolumeSlider_ValueChanged"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>
